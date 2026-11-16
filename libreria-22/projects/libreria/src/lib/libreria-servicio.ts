@@ -3,6 +3,6 @@ import { Service } from '@angular/core';
 @Service()
 export class LibreriaServicio {
   public hola(): void {
-    console.log('v2');
+    console.log('v1');
   }
 }
